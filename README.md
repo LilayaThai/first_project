@@ -8,7 +8,8 @@
 
 2 Image with link:
 
-![Product name Screen Shot](https://i.pinimg.com/736x/ef/68/f8/ef68f8d1570420d00569e0976d4efed7.jpg)(http://example.com)
+[![Product name Screen Shot](https://i.pinimg.com/736x/ef/68/f8/ef68f8d1570420d00569e0976d4efed7.jpg)](http://example.com)
+
 
 \**
 
