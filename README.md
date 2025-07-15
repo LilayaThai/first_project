@@ -100,3 +100,17 @@ func main() {
   ***
 
 <p align="right"><a href="#readme-top">back to top</a></p>
+
+### Built with
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknoledges
+
+|Name   |Url|Logo    |
+|:-------|:---:|--------:|
+|React|https://reactjs.org|<img src="https://iamprovidence.github.io/Blog/images/cards/c5.png" width="50" /> |
+| Vue.js | https://vuejs.org | <img src="https://i.ytimg.com/vi/5WbfMOSiehE/mqdefault.jpg" width="50" /> |
+|Angular|https://angular.io|<img src="https://dimonvideo.ru/files/newsimg/usernews/habr/292789/img_292789_imgr.png" width="50" /> |
+|Svelte|https://svelte.dev|<img src="https://i.pinimg.com/736x/0d/af/8e/0daf8e532cdabb01e756f635038125ee.jpg" width="50" /> |
+
+
+<p align="right"><a href="#readme-top">back to top</a></p>
