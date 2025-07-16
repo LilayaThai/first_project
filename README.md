@@ -1,9 +1,18 @@
 <a id="readme-top"></a>
+
+[comment]: # (There is some text that we don't want to be visible...)
+[//]: # (There is some text that we don't want to be visible...)
+
+<!-- There is some text 
+that we don't want 
+to be visible... -->
+
 ## About my project
 ***
 
 1 Just image:
 
+<!-- PROJECT LOGO -->
 ![Product name Screen Shot](https://i.pinimg.com/736x/ef/68/f8/ef68f8d1570420d00569e0976d4efed7.jpg)
 
 2 Image with link:
@@ -17,10 +26,10 @@ my first test Git repo
 
 My list:
 
-* *one*
+* *one* 🥇
 * **two**
 * ***three***
-* four
+* four :smile:
 
 ### Build with
 
